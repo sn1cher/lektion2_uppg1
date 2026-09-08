@@ -1,0 +1,29 @@
+body{
+    background-image: url(./images/background.jpg);
+}
+
+.headText{
+    background-color: rgb(18, 176, 233);
+    font-size: 20px;
+    color: black;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav{
+    background-color: royalblue;
+    size: 15px;
+}
+
+a{
+    color: yellowgreen;
+}
+
+.FruLorem{
+    font-weight: bold;
+}
+
+.HerrLorem{
+    font-weight: bold;
+}
+
