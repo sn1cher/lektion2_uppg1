@@ -1,0 +1,25 @@
+body{
+    background-color: #730abd;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgb(226, 52, 43);
+    font-size: 35px;
+}
+
+.morning{
+    color: aqua;
+    font-size: 50px;
+}
+
+.selector{
+    font-size: 50px;
+    color: chocolate;
+}
+
+p{
+    color: rgb(212, 255, 0);
+    font-size: 35px;
+}
