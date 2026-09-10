@@ -1,0 +1,50 @@
+.Uppg{
+    font-weight: bold;
+    color: coral;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    font-size: 25px;  
+}
+
+body{
+    background-image: url('./images/background.jpg');
+}
+
+.links{
+    color: yellowgreen;
+    margin-top: 15px;
+}
+
+a{
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+
+.header{
+    color: yellowgreen;
+    background-color: rgb(191, 0, 255);
+    text-align: center;
+    padding: 10px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-weight: bold;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+    display: inline-block;
+}
+
+.LoremText{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-weight: bold;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+    display: inline-block;
+}
